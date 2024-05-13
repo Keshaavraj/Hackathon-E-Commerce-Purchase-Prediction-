@@ -1,4 +1,4 @@
-# Analytics-Vidhya-JOB-A-THON---June-2022
+# E-Commerce Purchase Prediction Logistic Regression Model
 Logistic Regression Model to predict if user will buy the product in next three months for e-commerce platform
 
 
